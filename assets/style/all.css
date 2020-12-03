@@ -225,6 +225,7 @@ table {
   background-color: #AA0601;
   padding: 36px 0 28px; }
   .footer a {
+    font-family: "Noto Sans TC", sans-serif;
     -webkit-transform: translateY(0px);
         -ms-transform: translateY(0px);
             transform: translateY(0px);
@@ -247,7 +248,10 @@ table {
   .footer-nav li + li {
     margin-left: 48px; }
   .footer-nav a {
+    font-family: "Noto Sans TC", sans-serif;
     font-size: 16px; }
+  .footer-nav span {
+    font-family: "Noto Sans TC", sans-serif; }
 
 .footer-copyright {
   padding-top: 24px;
@@ -258,7 +262,8 @@ table {
   margin-right: 38px; }
 
 .footer-logo span {
-  font-size: 16px; }
+  font-size: 16px;
+  font-family: "Noto Sans TC", sans-serif; }
 
 .policy {
   margin-left: auto; }
@@ -365,7 +370,8 @@ table {
     .banner-txt .h1 {
       font-size: 48px; }
     .banner-txt .h3 {
-      font-size: 20px; } }
+      font-size: 20px;
+      font-family: "Noto Sans TC", sans-serif; } }
   @media (max-width: 767px) {
     .banner-txt .h1 {
       font-size: 32px; }
