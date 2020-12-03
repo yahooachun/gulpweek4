@@ -1,0 +1,67 @@
+// helpers
+@import 'helpers/variables';
+@import 'helpers/mixins';
+@import 'helpers/display';
+
+// base
+@import 'base/base';
+@import 'base/restet';
+
+// layout
+@import 'layout/nav';
+@import 'layout/footer';
+@import 'layout/grid';
+
+// pages
+@import 'pages/index';
+@import 'pages/fqa';
+@import 'pages/location';
+@import 'pages/map';
+@import 'pages/product-opt';
+@import 'pages/product-sun';
+@import 'pages/blog';
+@import 'pages/article';
+
+// components
+@import 'components/pagination';
+
+
+
+
+
+
+
+@import '../../../node_modules/bootstrap/scss/functions';
+// @import '../../../node_modules/bootstrap/scss/variables';
+// @import '../../../node_modules/bootstrap/scss/mixins';
+
+// @import '../../../node_modules/bootstrap/scss/reboot';
+// @import 'base/base';
+// @import '../../../node_modules/bootstrap/scss/grid';
+// @import '../../../node_modules/bootstrap/scss/utilities';
+// @import '../../../node_modules/bootstrap/scss/navbar';
+// @import '../../../node_modules/bootstrap/scss/transitions';
+// @import'../../../node_modules/bootstrap/scss/images';
+// @import '../../../node_modules/bootstrap/scss/forms';
+// @import '../../../node_modules/bootstrap/scss/modal';
+// @import '../../../node_modules/bootstrap/scss/close';
+// @import '../../../node_modules/bootstrap/scss/buttons';
+// @import '../../../node_modules/bootstrap/scss/custom-forms';
+// @import '../../../node_modules/bootstrap/scss/tooltip';
+
+// @import 'helpers/text';
+// @import 'helpers/filter';
+// @import 'helpers/hover';
+// @import 'helpers/position';
+
+
+// @import 'component/navbar';
+// @import 'component/card';
+// @import 'component/pagination';
+// @import 'component/form';
+
+
+// @import 'layout/footer';
+// @import 'layout/subscribe';
+
+// @import 'page/index';
